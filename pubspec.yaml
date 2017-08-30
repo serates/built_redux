@@ -7,7 +7,7 @@ authors:
 homepage: https://github.com/davidmarne/built_redux
 dependencies:
   analyzer: '>=0.29.0 <0.31.0'
-  build: ^0.9.0
+  build: ^0.10.0
   built_value: ^2.0.0
   source_gen: '^0.7.0'
 
